@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass # 3.7부터 사용가능함
 from datetime import date
 
 # 데코레이터를 사용해 기존의 방식을 모두 취하면서 사용할 수 있음
